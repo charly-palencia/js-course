@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Exercise 1</title>
+    <style>
+      html {
+        font-family: sans-serif;
+      }
+
+      body {
+        width: 50%;
+        max-width: 800px;
+        min-width: 480px;
+        margin: 0 auto;
+      }
+
+      .lastResult {
+        color: white;
+        padding: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Number guessing game</h1>
+    <input id="guessInput" type="text" name="guessInput"/>
+    <button id="guessSubmit">Submit guess</button>
+
+    <p class="guesses"></p>
+    <p class="lastResult"></p>
+    <p class="lowOrHi"></p>
+
+    <script>
+      const max = 100;
+      const min = 1;
+
+      //1. Generate a random number between 1 and 100.
+      let randonNumber = Math.floor(Math.random() * Math.floor(max)) + min;
+      console.log(randonNumber);
+      //2. Record the turn number the player is on. Start it on 1.
+      let turnNumber = 1;
+      let previousGuesses = [];
+
+      //get the guessed number input node
+      const guessInput = document.querySelector('#guessInput');
+      const submitButton = document.querySelector('#guessSubmit');
+
+      //get output elements
+      const guesses = document.querySelector('.guesses');
+      const lastResult = document.querySelector('.lastResult');
+      const lowOrHi = document.querySelector('.lowOrHi');
+
+      //add event listener for button
+      submitButton.addEventListener('click', function(){
+        const guessValue = Number(guessInput.value);
+        previousGuesses.push(guessValue);
+
+        // 3. Provide the player with a way to guess what the number is.
+        // 8. If it is wrong and the player has no turns left:
+        if(turnNumber === 10){
+          lastResult.style.backgroundColor = 'red';
+          lastResult.textContent= "Game Over!";
+
+          //6.2. Stop the player from being able to enter more guesses (this would mess the game up).
+          guessSubmit.disabled=true;
+          guessInput.disabled=true;
+          //6.3. Display control allowing the player to restart the game.
+          const resetButton = document.createElement('button');
+          resetButton.textContent = "Start new game";
+          resetButton.addEventListener('click', function(){
+            guessSubmit.disabled=false;
+            guessInput.disabled=false;
+            turnNumber = 0;
+            previousGuesses = [];
+            const elements = document.querySelectorAll('p');
+            elements.forEach(function(element){
+              element.textContent = "";
+            });
+            document.body.removeChild(this);
+            lastResult.style.backgroundColor = 'white';
+          });
+          document.body.appendChild(resetButton);
+          return false;
+        }
+        //4. Once a guess has been submitted first record it somewhere so the user can see their previous guesses.
+        //5. Next, check whether it is the correct number.
+        //7. If it is wrong and the player has turns left:
+        if(guessValue === randonNumber){
+          lowOrHi.textContent= "";
+          lastResult.style.backgroundColor = 'green';
+          lastResult.textContent= `Congrats ${guessValue} is the number`;
+          //6.2. Stop the player from being able to enter more guesses (this would mess the game up).
+          guessSubmit.disabled=true;
+          guessInput.disabled=true;
+          //6.3. Display control allowing the player to restart the game.
+          const resetButton = document.createElement('button');
+          resetButton.textContent = "Start new game";
+          resetButton.addEventListener('click', function(){
+            guessSubmit.disabled=false;
+            guessInput.disabled=false;
+            turnNumber = 0;
+            previousGuesses = [];
+            const elements = document.querySelectorAll('p');
+            elements.forEach(function(element){
+              element.textContent = "";
+            });
+            document.body.removeChild(this);
+            lastResult.style.backgroundColor = 'white';
+          });
+          document.body.appendChild(resetButton);
+        }else if(guessValue < randonNumber){
+          lowOrHi.textContent= `is greater than ${guessValue}`;
+          lastResult.style.backgroundColor = 'red';
+          lastResult.textContent= "wrong!";
+          turnNumber+=1;
+        }else{
+          lowOrHi.textContent = `is lower than ${guessValue}`;
+          lastResult.style.backgroundColor = 'red';
+          lastResult.textContent= "wrong!";
+          turnNumber+=1;
+        }
+        guessInput.value = "";
+        guesses.textContent = previousGuesses.join(',');
+      });
+    </script>
+  </body>
+</html>
