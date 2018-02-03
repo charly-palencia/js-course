@@ -98,7 +98,7 @@ It doesn't matter if send a js asyncronous function sunch a `setTimeout`. the js
 ### now, what is a js engine?
 reference: [A guide to javascript for idiots](https://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/)
 
-The basic job of a JavaScript engine, when all is said and done, is to take the JavaScript code that a developer writes and convert it to fast, optimized code that can be interpreted by a browser or even embedded into an application.
+The basic job of a JavaScript engine, when all is said and done, is to take the JavaScript code that a developer writes and convert it to fast, optimized code that can be interpreted by a browser or even embedded into an application. [Some active js engine projects](https://en.wikipedia.org/wiki/JavaScript_engine)
 
 what is contain into a js engine?
 
@@ -162,3 +162,5 @@ E.g
 
   console.log('Second one')
 ```
+
+Great video about js engine and web api [here](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
