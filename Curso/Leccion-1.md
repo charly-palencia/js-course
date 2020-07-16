@@ -1,6 +1,6 @@
-#Curso De Programacion Web Basico
+# Curso De Programacion Web Basico
 
-* Verficiar conocimiento previo [aqui](https://github.com/charly-palencia/developer-roadmap)
+## Verficiar conocimiento previo [aqui](https://github.com/charly-palencia/developer-roadmap)
 
 ## Javascript (JS)
 
