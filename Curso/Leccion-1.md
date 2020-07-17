@@ -37,5 +37,5 @@ WIP
 
 ### Curso de ingles (20 minutos diarios)
 
-- https://www.aprenderinglesrapidoyfacil.com/20-minutos/ 
-
+- [Curso completo gratis](https://www.aprenderinglesrapidoyfacil.com/20-minutos/)
+- [Curso ingles en videos](https://www.youtube.com/watch?v=r-Kb8SrR5LQ)
