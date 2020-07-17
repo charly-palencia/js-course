@@ -2,6 +2,13 @@
 
 ## Verficiar conocimiento previo [aqui](https://github.com/charly-palencia/developer-roadmap)
 
+## Conceptos Basicos
+- [Que es SSH?](https://www.youtube.com/watch?v=QgnzJ3nQylI)
+- [Que es git y github?](https://www.youtube.com/watch?v=YlBy34ECh2s)
+- [Basico terminal en window](https://www.youtube.com/watch?v=W6434nulBu8)
+- [Que es HTTP y HTTPS](https://www.youtube.com/watch?v=6f7VKDmBBdM)
+- [Versionamiento semantico (Semantive Version o SemVer)](https://www.youtube.com/watch?v=dj8H2mqiAtU)
+
 ## Javascript (JS)
 
 ### Basico
