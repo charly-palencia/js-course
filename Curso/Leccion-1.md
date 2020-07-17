@@ -21,8 +21,13 @@
 - [Ejercicios Parte 1](https://jsfiddle.net/chalien/1hLzv5qp/9/)
 - [Array funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array)
 - [String funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String)
-....
+
+WIP
 
 ## CSS
 
+WIP
+
 ## HTML
+
+WIP
