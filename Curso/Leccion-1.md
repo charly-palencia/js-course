@@ -34,3 +34,8 @@ WIP
 ## HTML
 
 WIP
+
+### Curso de ingles (20 minutos diarios)
+
+- https://www.aprenderinglesrapidoyfacil.com/20-minutos/ 
+
