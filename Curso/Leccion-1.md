@@ -39,3 +39,4 @@ WIP
 
 - [Curso completo gratis](https://www.aprenderinglesrapidoyfacil.com/20-minutos/)
 - [Curso ingles en videos](https://www.youtube.com/watch?v=r-Kb8SrR5LQ)
+- [Chat y video llamadas en ingles](https://www.hellotalk.com/about/)
