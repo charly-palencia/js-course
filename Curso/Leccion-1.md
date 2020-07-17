@@ -38,9 +38,11 @@ WIP
 ## Curso de ingles 
 
 - [Consejos para aprender ingles](https://www.youtube.com/watch?v=SO2XP91hhWM)
+
 - [Curso completo gratis (20 minutos diarios)](https://www.aprenderinglesrapidoyfacil.com/20-minutos/)
 - [curso-ingles completo](https://www.curso-ingles.com/aprender/cursos/nivel-basico)
 - [Curso ingles en videos](https://www.youtube.com/watch?v=r-Kb8SrR5LQ)
 - [Chat y video llamadas en ingles](https://www.hellotalk.com/about/)
 - [HINATIVE app](https://www.youtube.com/watch?v=daq9vVDb1Co)
 - [EngVid gramatica](https://www.youtube.com/channel/UCKRBA9XfgzAtJodE4t8cUeg)
+- [Lectura en ingles](https://readtheory.org/)
