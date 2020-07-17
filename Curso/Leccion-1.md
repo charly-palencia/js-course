@@ -43,3 +43,4 @@ WIP
 - [Curso ingles en videos](https://www.youtube.com/watch?v=r-Kb8SrR5LQ)
 - [Chat y video llamadas en ingles](https://www.hellotalk.com/about/)
 - [HINATIVE app](https://www.youtube.com/watch?v=daq9vVDb1Co)
+- [EngVid gramatica](https://www.youtube.com/channel/UCKRBA9XfgzAtJodE4t8cUeg)
