@@ -3,15 +3,15 @@
 ## Verficiar conocimiento previo [aqui](https://github.com/charly-palencia/developer-roadmap)
 
 ## Conceptos Basicos
-- [Que es SSH?](https://www.youtube.com/watch?v=QgnzJ3nQylI)
-- [Que es git y github?](https://www.youtube.com/watch?v=YlBy34ECh2s)
+- [¿Que es SSH?](https://www.youtube.com/watch?v=QgnzJ3nQylI)
+- [¿Que es git y github?](https://www.youtube.com/watch?v=YlBy34ECh2s)
 - [Basico terminal en window](https://www.youtube.com/watch?v=W6434nulBu8)
 - [Que es HTTP y HTTPS](https://www.youtube.com/watch?v=6f7VKDmBBdM)
 - [Versionamiento semantico (Semantic Version o SemVer)](https://www.youtube.com/watch?v=dj8H2mqiAtU)
-- [Que es una API?](https://www.youtube.com/watch?v=u2Ms34GE14U)
-- [Que es Backend y Frontend?](https://www.youtube.com/watch?v=50RbVujPPGs)
-- [Como se crea una pagina web?](https://www.youtube.com/watch?v=iIyoWWiMDC4)
-- [Que es y como usar JSFiddle?](https://www.youtube.com/watch?v=TBbYSqbEYcg)
+- [¿Que es una API?](https://www.youtube.com/watch?v=u2Ms34GE14U)
+- [¿Que es Backend y Frontend?](https://www.youtube.com/watch?v=50RbVujPPGs)
+- [¿Como se crea una pagina web?](https://www.youtube.com/watch?v=iIyoWWiMDC4)
+- [¿Que es y como usar JSFiddle?](https://www.youtube.com/watch?v=TBbYSqbEYcg)
 ## Javascript (JS)
 
 ### Basico
@@ -35,8 +35,10 @@ WIP
 
 WIP
 
-### Curso de ingles (20 minutos diarios)
+### Curso de ingles 
 
-- [Curso completo gratis](https://www.aprenderinglesrapidoyfacil.com/20-minutos/)
+- [Consejos para aprender ingles](https://www.youtube.com/watch?v=SO2XP91hhWM)
+- [Curso completo gratis (20 minutos diarios)](https://www.aprenderinglesrapidoyfacil.com/20-minutos/)
 - [Curso ingles en videos](https://www.youtube.com/watch?v=r-Kb8SrR5LQ)
 - [Chat y video llamadas en ingles](https://www.hellotalk.com/about/)
+- [HINATIVE app](https://www.youtube.com/watch?v=daq9vVDb1Co)
