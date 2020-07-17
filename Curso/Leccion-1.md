@@ -8,7 +8,9 @@
 - [Basico terminal en window](https://www.youtube.com/watch?v=W6434nulBu8)
 - [Que es HTTP y HTTPS](https://www.youtube.com/watch?v=6f7VKDmBBdM)
 - [Versionamiento semantico (Semantive Version o SemVer)](https://www.youtube.com/watch?v=dj8H2mqiAtU)
-
+- [Que es una API?](https://www.youtube.com/watch?v=u2Ms34GE14U)
+- [Que es Backend y Frontend?](https://www.youtube.com/watch?v=50RbVujPPGs)
+- [Como se crea una pagina web?](https://www.youtube.com/watch?v=iIyoWWiMDC4)
 ## Javascript (JS)
 
 ### Basico
