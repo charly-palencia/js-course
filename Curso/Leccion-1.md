@@ -24,7 +24,7 @@
 - [Ejercicio 1: Datos y funciones basicas](https://jsfiddle.net/chalien/1hLzv5qp)
 - [Array funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array)
 - [String funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String)
-- [Ejercicio 2: Funciones de array y string](https://jsfiddle.net/chalien/2hwoud46)
+- [Ejercicio 2: Funciones de array y string](https://jsfiddle.net/o7nq4xup)
 
 WIP
 
