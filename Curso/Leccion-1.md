@@ -21,10 +21,10 @@
 - [Informacion basica de JS (Video mas largo)](https://www.youtube.com/watch?v=viQ6creGqFM)  
 - [Tipos de datos (doc)](https://www.todojs.com/tipos-datos-javascript-es6/)
 - [Clase 1: Tipo de datos](https://jsfiddle.net/chalien/sr4eujLa/)  (El codigo se corre con Ctrl + enter y Se salva con Ctrl + S)
-- [Ejercicio 1: Datos y funciones basicas](https://jsfiddle.net/chalien/1hLzv5qp)
+- [Ejercicio 1: Datos y funciones basicas](https://jsfiddle.net/chalien/1hLzv5qp/latest)
 - [Array funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array)
 - [String funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String)
-- [Ejercicio 2: Funciones de array y string](https://jsfiddle.net/chalien/d2kqpvgz)
+- [Ejercicio 2: Funciones de array y string](https://jsfiddle.net/chalien/d2kqpvgz/latest)
 
 WIP
 
