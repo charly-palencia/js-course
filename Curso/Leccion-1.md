@@ -25,6 +25,7 @@
 - [Array funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array)
 - [String funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String)
 - [Ejercicio 2: Funciones de array y string](https://jsfiddle.net/chalien/d2kqpvgz/latest)
+- [Ejercicio 3: Filter , find, some](https://jsfiddle.net/chalien/7ma4u62c/latest)
 
 WIP
 
