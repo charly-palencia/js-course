@@ -26,7 +26,7 @@
 - [String funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String)
 - [Ejercicio 2: Funciones de array y string](https://jsfiddle.net/chalien/d2kqpvgz/latest)
 - [Ejercicio 3: Filter , find, some](https://jsfiddle.net/chalien/7ma4u62c/latest)
-
+- [Clase Expresiones Regulares](https://jsfiddle.net/chalien/r7zm4qg5/latest)
 WIP
 
 ## CSS
