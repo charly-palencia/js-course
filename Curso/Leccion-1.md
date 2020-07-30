@@ -27,6 +27,7 @@
 - [Ejercicio 2: Funciones de array y string](https://jsfiddle.net/chalien/d2kqpvgz/latest)
 - [Ejercicio 3: Filter , find, some](https://jsfiddle.net/chalien/7ma4u62c/latest)
 - [Clase Expresiones Regulares](https://jsfiddle.net/chalien/r7zm4qg5/latest)
+- [Ejercicios 4: Expresiones Regulares y String](https://docs.google.com/document/d/1Zrgivhuw0M4B8FRBNsU9GWtaqKkdhANLzUkn7MFynP4/edit?usp=sharing)
 WIP
 
 ## CSS
