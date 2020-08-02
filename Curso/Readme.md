@@ -20,14 +20,18 @@
 - [Informacion basica de JS (Video)](https://www.youtube.com/watch?v=0yPIZLbE1y0)  
 - [Informacion basica de JS (Video mas largo)](https://www.youtube.com/watch?v=viQ6creGqFM)  
 - [Tipos de datos (doc)](https://www.todojs.com/tipos-datos-javascript-es6/)
-- [Clase 1: Tipo de datos](https://jsfiddle.net/chalien/sr4eujLa/)  (El codigo se corre con Ctrl + enter y Se salva con Ctrl + S)
+- [Tema 1: Tipo de datos](https://jsfiddle.net/chalien/sr4eujLa/)  (El codigo se corre con Ctrl + enter y Se salva con Ctrl + S)
 - [Ejercicio 1: Datos y funciones basicas](https://jsfiddle.net/chalien/1hLzv5qp/latest)
-- [Array funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array)
-- [String funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String)
+- [Tema 2: Array funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array)
+- [Tema 3: String funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String)
 - [Ejercicio 2: Funciones de array y string](https://jsfiddle.net/chalien/d2kqpvgz/latest)
 - [Ejercicio 3: Filter , find, some](https://jsfiddle.net/chalien/7ma4u62c/latest)
-- [Clase Expresiones Regulares](https://jsfiddle.net/chalien/r7zm4qg5/latest)
+- [Tema 4: Clase Expresiones Regulares](https://jsfiddle.net/chalien/r7zm4qg5/latest)
 - [Ejercicios 4: Expresiones Regulares y String](https://docs.google.com/document/d/1Zrgivhuw0M4B8FRBNsU9GWtaqKkdhANLzUkn7MFynP4/edit?usp=sharing)
+- [Tema 5: Objetos](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Trabajando_con_objectos)
+- [5.1: Funciones de Objeto](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Object)
+- [Ejercicios 5: Metodos de objeto](https://jsfiddle.net/chalien/9vewx6yu/latest)
+
 WIP
 
 ## CSS
