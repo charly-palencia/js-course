@@ -35,7 +35,8 @@
 - [6.2 Closure](https://developer.mozilla.org/es/docs/Web/JavaScript/Closures)
 - [6.3 Contexto O this](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/this)
 - [6.4 Diferencia entre contexto y scope](https://medium.com/sngular-devs/javascript-desmenuzando-el-scope-8fe46956e6f8#:~:text=Contexto,this%20en%20el%20mismo%20Scope.)
-- [Ejercicio: 6 Contexto]()
+- [Taller 6](https://jsfiddle.net/chalien/xbu854hn/latest)
+- [Ejercicio: 6 Contexto]()WIP
 - [Tema 7 Objetos avanzados: Prototipo]()
 
 
