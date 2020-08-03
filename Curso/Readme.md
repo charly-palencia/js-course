@@ -29,8 +29,16 @@
 - [Tema 4: Clase Expresiones Regulares](https://jsfiddle.net/chalien/r7zm4qg5/latest)
 - [Ejercicios 4: Expresiones Regulares y String](https://docs.google.com/document/d/1Zrgivhuw0M4B8FRBNsU9GWtaqKkdhANLzUkn7MFynP4/edit?usp=sharing)
 - [Tema 5: Objetos](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Trabajando_con_objectos)
-- [5.1: Funciones de Objeto](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Object)
+- [5.2: Funciones de Objeto](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Object)
 - [Ejercicios 5: Metodos de objeto](https://jsfiddle.net/chalien/9vewx6yu/latest)
+- [Tema 6 Conceptops avanzados: Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+- [6.2 Closure](https://developer.mozilla.org/es/docs/Web/JavaScript/Closures)
+- [6.3 Contexto O this](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/this)
+- [6.4 Diferencia entre contexto y scope](https://medium.com/sngular-devs/javascript-desmenuzando-el-scope-8fe46956e6f8#:~:text=Contexto,this%20en%20el%20mismo%20Scope.)
+- [Ejercicio: 6 Contexto]()
+- [Tema 7 Objetos avanzados: Prototipo]()
+
+
 
 WIP
 
