@@ -65,3 +65,4 @@ WIP
 - [HINATIVE app](https://www.youtube.com/watch?v=daq9vVDb1Co)
 - [EngVid gramatica](https://www.youtube.com/channel/UCKRBA9XfgzAtJodE4t8cUeg)
 - [Lectura en ingles](https://readtheory.org/)
+- [App para aprender con musica](https://lyricstraining.com/app)
