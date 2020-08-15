@@ -49,10 +49,9 @@
     - [CreateElement](https://developer.mozilla.org/es/docs/Web/API/Document/createElement)
     - [Element](https://developer.mozilla.org/es/docs/Glossary/Element)
       - [AddEventListener](https://developer.mozilla.org/es/docs/Web/API/EventTarget/addEventListener)
-        - [instancia event](https://developer.mozilla.org/es/docs/Web/API/Event
+        - [instancia event](https://developer.mozilla.org/es/docs/Web/API/Event)
         - [event.target](https://developer.mozilla.org/es/docs/Web/API/Event/target)
       - [AppendChild](https://developer.mozilla.org/es/docs/Web/API/Node/appendChild)
-    )
 - [Ejemplos 8 DOM](https://jsfiddle.net/chalien/1Lpmwhg2/latest)
 
 
