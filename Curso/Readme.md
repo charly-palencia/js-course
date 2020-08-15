@@ -53,6 +53,7 @@
         - [event.target](https://developer.mozilla.org/es/docs/Web/API/Event/target)
       - [AppendChild](https://developer.mozilla.org/es/docs/Web/API/Node/appendChild)
 - [Ejemplos 8 DOM](https://jsfiddle.net/chalien/1Lpmwhg2/latest)
+- [Ejercicio 8 DOM](https://jsfiddle.net/chalien/gw49bx7n/32/)
 
 
 WIP
