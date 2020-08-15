@@ -41,7 +41,19 @@
 - [Ejercicio Funciones contructoras](https://jsfiddle.net/chalien/4tjaqe2x/latest)
 - [Ejercicio: 6 Contexto]()WIP
 - [Tema 7 Objetos avanzados: Prototipo]()
-
+- [Team 8 DOM](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
+    - [Web API](https://developer.mozilla.org/es/docs/Web/API)
+    - [document](https://developer.mozilla.org/es/docs/Web/API/Document)
+    - [QuerySelector](https://developer.mozilla.org/es/docs/Web/API/Document/querySelector)
+    - [QuerySelectorALl](https://developer.mozilla.org/es/docs/Web/API/Document/querySelectorAll)  
+    - [CreateElement](https://developer.mozilla.org/es/docs/Web/API/Document/createElement)
+    - [Element](https://developer.mozilla.org/es/docs/Glossary/Element)
+      - [AddEventListener](https://developer.mozilla.org/es/docs/Web/API/EventTarget/addEventListener)
+        - [instancia event](https://developer.mozilla.org/es/docs/Web/API/Event
+        - [event.target](https://developer.mozilla.org/es/docs/Web/API/Event/target)
+      - [AppendChild](https://developer.mozilla.org/es/docs/Web/API/Node/appendChild)
+    )
+- [Ejemplos 8 DOM](https://jsfiddle.net/chalien/1Lpmwhg2/latest)
 
 
 WIP
