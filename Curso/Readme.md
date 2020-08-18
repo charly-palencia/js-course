@@ -58,11 +58,14 @@
 
 WIP
 
-## CSS
-
-WIP
-
 ## HTML
+
+- [Empezar con HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML/iniciar)
+- [Video aprende HTML desde cero](https://www.youtube.com/watch?v=fG7rCJRzZMs)
+- [Etiqueta semanticas](https://desarrolloweb.com/articulos/etiquetas-semanticas-html5.html)
+- [Ejercicio HTML structure](https://docs.google.com/document/d/1lUa35ouVLaL_W3Zk1kFAaf3feril2hz9wVIupPA_8ic/edit?usp=sharing)
+
+## CSS
 
 WIP
 
