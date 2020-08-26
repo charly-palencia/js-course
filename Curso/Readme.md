@@ -1,6 +1,6 @@
 # Curso De Programacion Web Basico
 
-## Verficiar conocimiento previo [aqui](https://github.com/kamranahmedse/developer-roadmap)
+## Verificar conocimiento previo [aqui](https://github.com/kamranahmedse/developer-roadmap)
 
 ## [RoadMap Frontend](https://roadmap.sh/react)
 
